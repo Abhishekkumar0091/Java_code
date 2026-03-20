@@ -1,3 +1,0 @@
-INDEX VERSION 1.134+D:\4 30 java new\Practice my self\shorting list collection using salary\.metadata\.plugins\org.eclipse.jdt.core
-2147569351.index
-1865797976.index
